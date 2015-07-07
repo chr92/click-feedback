@@ -27,9 +27,9 @@ I'm making it open source so hopefully lots of people can benefit from using it.
 Todos
 -----
 
-[] Feedback Collection
-[] Admin Page
-[] Snippet Generator
-[] Charts 
-[] Email Reports
-[] Sexy Looks
+[ ] Feedback Collection
+[ ] Admin Page
+[ ] Snippet Generator
+[ ] Charts 
+[ ] Email Reports
+[ ] Sexy Looks
